@@ -1,0 +1,19 @@
+{
+  "name": "node_basics",
+  "version": "0.1.0",
+  "description": "A Node.js repository for basic server creation.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SharmaAayush/node_basics.git"
+  },
+  "author": "ShandilyaAayush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SharmaAayush/node_basics/issues"
+  },
+  "homepage": "https://github.com/SharmaAayush/node_basics#readme"
+}
